@@ -1,0 +1,1 @@
+EXEC dbo.PopulateDateAttributes '2025-01-15';

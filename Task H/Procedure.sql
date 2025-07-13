@@ -1,0 +1,1 @@
+EXEC dbo.PopulateDateAttributes '2004-01-15';
