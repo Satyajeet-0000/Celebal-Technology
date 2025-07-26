@@ -9,4 +9,4 @@ WHERE (emp.salary, emp.departmentId)
 IN (SELECT max(salary) 
 AS salary, departmentId 
 FROM Employee
-GROUP BY departmentId)
+GROUP BY departmentId) --LeetCode 184
