@@ -75,6 +75,5 @@ BEGIN
     END;
 
     CLOSE StudentCursor;
-    DEALLOCATE StudentCursor;
-
+    DEALLOCATE StudentCursor; 
 END;
